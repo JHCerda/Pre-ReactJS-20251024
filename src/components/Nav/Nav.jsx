@@ -5,10 +5,10 @@ export const Nav = () => {
                 <Link to={"/"}>Home</Link>
             </li>
             <li>
-                <Link to={"/category/argentina"}>Argentina</Link>
+                <Link to={"/category/dulce"}>Dulce</Link>
             </li>
                <li>
-                <Link to={"/category/sudamerica"}>Sudamerica</Link>
+                <Link to={"/category/salado"}>Salado</Link>
             </li>
         </ul>
     </nav>
